@@ -1,0 +1,3 @@
+User-Agent: *
+Disallow: /enter.html
+Disallow: /kehuduan.html
